@@ -1,6 +1,8 @@
 from pico2d import *
 import random
 
+# 마지막 최종 커밋 점검
+
 
 # Game object class here
 # Grass Class 만들기
