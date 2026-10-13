@@ -3,7 +3,9 @@ import random
 
 
 # Game object class here
-
+# Grass Class 만들기
+class Grass:
+    pass
 
 def handle_events():
     global running
