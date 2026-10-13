@@ -7,6 +7,10 @@ import random
 class Grass:
     pass
 
+# Boy Class 만들기
+class Boy:
+    pass
+
 def handle_events():
     global running
     events = get_events()
